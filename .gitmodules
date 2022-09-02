@@ -1,3 +1,3 @@
-[submodule "DanesTools"]
-	path = DanesTools
+[submodule "ThroughTheLookingGlass/Assets/Tools"]
+	path = ThroughTheLookingGlass/Assets/Tools
 	url = https://github.com/macadaneo/DanesTools
