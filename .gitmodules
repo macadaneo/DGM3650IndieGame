@@ -1,0 +1,3 @@
+[submodule "DanesTools"]
+	path = DanesTools
+	url = https://github.com/macadaneo/DanesTools
